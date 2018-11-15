@@ -1,5 +1,5 @@
 <template>
-  <div class="bg-black text-white flex-1">
+  <div class="bg-black text-white flex-1 ml-56">
     <p>text</p>
   </div>
 </template>
