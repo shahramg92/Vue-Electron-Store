@@ -1,6 +1,6 @@
 <template>
   <div id="app" style="-webkit-app-region: drag" class="flex min-h-screen">
-    <div class="w-56 text-white bg-blue">
+    <div class="w-56 text-white bg-grey-darkest border-r border-blackblack">
       This is a Sidebar
     </div>
     <HelloWorld msg="Welcome to Vue"/>
