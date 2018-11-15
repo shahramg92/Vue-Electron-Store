@@ -1,7 +1,9 @@
 <template>
-  <div id="app" style="-webkit-app-region: drag">
-    <img alt="Vue logo" src="./assets/logo.png">
-    <HelloWorld msg="Welcome to Your Vue.js App"/>
+  <div id="app" style="-webkit-app-region: drag" class="flex min-h-screen">
+    <div class="w-56 text-white bg-blue">
+      This is a Sidebar
+    </div>
+    <HelloWorld msg="Welcome to Vue"/>
   </div>
 </template>
 
