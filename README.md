@@ -1,4 +1,4 @@
-# Vue-Tailwind-Store
+# Vue-Electron-Store
 Vue.js desktop application which is a redesigned app store for viewing and download apps.
 
 Technologies used:<br>
