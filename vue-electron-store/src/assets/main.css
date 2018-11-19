@@ -11,6 +11,10 @@
  */
 @tailwind preflight;
 
+.router-link-exact-active {
+  @apply bg-grey-darker;
+}
+
 .clickable {
   -webkit-app-region: no-drag;
 }
@@ -30,12 +34,12 @@
   border-radius: 10px;
 }
 
-/* .discover-banner {
+.discover-banner {
   background: url('./discover1.jpg');
   background-repeat: no-repeat;
   background-size: cover;
   min-height: 300px;
-} */
+}
 
 /**
  * This injects any component classes registered by plugins.
