@@ -10,7 +10,7 @@
 <script>
 import HelloWorld from './components/HelloWorld.vue'
 
-export efault {
+export default {
   name: 'app',
   components: {
     HelloWorld
