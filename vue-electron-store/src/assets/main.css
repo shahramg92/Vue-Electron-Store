@@ -11,10 +11,6 @@
  */
 @tailwind preflight;
 
-.router-link-exact-active {
-  @apply bg-grey-darker;
-}
-
 .clickable {
   -webkit-app-region: no-drag;
 }

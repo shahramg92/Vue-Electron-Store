@@ -1,6 +1,6 @@
 <template>
-  <div class="bg-black text-white flex-1 ml-56">
-    <div class="discover-banner">
+  <div class="bg-black text-white flex-1 ml-56 px-10">
+    <div class="discover-banner max-w-full text-white px-8 rounded-b-lg pt-12 mb-10">
       <div class ="uppercase mb-4">The Basics</div>
       <h1 class="font-normal mb-4">Create Personal Projects</h1>
       <p class="w-64 leading-normal text-grey-lighter">With these apps, creativity has no boundaries.</p>
