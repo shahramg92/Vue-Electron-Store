@@ -156,7 +156,6 @@
               </div>
             </div>
           </div>
-
         </div>
 
         <div class="w-1/2 pl-6">
