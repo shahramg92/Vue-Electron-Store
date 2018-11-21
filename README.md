@@ -9,3 +9,5 @@ Animate.css<br>
 Vue-Flickity<br>
 Vue Router<br>
 Vuex<br>
+
+<img src="src/assets/screen1.jpg"/>
