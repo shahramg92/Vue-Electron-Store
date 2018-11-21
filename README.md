@@ -10,4 +10,4 @@ Vue-Flickity<br>
 Vue Router<br>
 Vuex<br>
 
-<img src="src/assets/screen1.jpg"/>
+<img src="vue-electron-store/src/assets/screen1.jpg"/>
