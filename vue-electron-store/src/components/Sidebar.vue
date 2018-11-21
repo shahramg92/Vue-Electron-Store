@@ -64,10 +64,10 @@
         <svg class="mr-3" width="34px" height="34px" viewBox="0 0 34 34">
           <circle fill="#D8D8D8" fill-rule="nonzero" cx="17" cy="17" r="17"></circle>
           <text font-size="15" font-weight="300" fill="#2D2F31">
-              <tspan x="4.85714286" y="21.7857143">SG</tspan>
+              <tspan x="4.85714286" y="21.7857143">AM</tspan>
           </text>
         </svg>
-        <div class="text-white">Shahram Ghassemi</div>
+        <div class="text-white">Andre Madarang</div>
       </router-link> <!-- end sidebar-icon -->
 
     </div>
