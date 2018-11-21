@@ -7,26 +7,26 @@
     </transition>
 
     <flickity ref="flickity" :options="flickityOptions" class="px-10">
-      <div class="w-full discover-banner max-w-full text-white px-8 rounded-b-lg pt-12 mb-10" @click="story('Create Personal Projects')">
-        <div class="uppercase mb-4">The Basics</div>
-        <h1 class="font-normal mb-4">Create Personal Projects</h1>
-        <p class="w-64 leading-normal text-grey-lighter">With these apps, creativity has no boundaries.</p>
+      <div class="w-full final-cut max-w-full text-white px-8 rounded-b-lg pt-12 mb-10" @click="story('Extend The Power of Final Cut Pro X')">
+        <div class="uppercase mb-4"></div>
+        <h1 class="font-normal mb-4"></h1>
+        <p class="w-64 leading-normal text-grey-lighter"></p>
       </div>
 
-      <div class="w-full discover-banner max-w-full text-white px-8 rounded-b-lg pt-12 mb-10" @click="story('Create Personal Projects')" :style="`background-image: url(${image2});`">
-        <div class="uppercase mb-4">Another Title</div>
-        <h1 class="font-normal mb-4">Another Title Here</h1>
-        <p class="w-64 leading-normal text-grey-lighter">Andre is the best!!</p>
+      <div class="w-full discover-banner max-w-full text-white px-8 rounded-b-lg pt-12 mb-10" @click="story('Hi Everyone!')" :style="`background-image: url(${image2});`">
+        <div class="uppercase mb-4">Hi Everyone!</div>
+        <h1 class="font-normal mb-4">Shahram Here</h1>
+        <p class="w-64 leading-normal text-grey-lighter">Thank you for checking out my app! I really appreciate it.</p>
       </div>
-      <div class="w-full discover-banner max-w-full text-white px-8 rounded-b-lg pt-12 mb-10" @click="story('Create Personal Projects')">
-        <div class="uppercase mb-4">The Basics</div>
-        <h1 class="font-normal mb-4">Create Personal Projects</h1>
-        <p class="w-64 leading-normal text-grey-lighter">With these apps, creativity has no boundaries.</p>
+      <div class="w-full genius max-w-full text-white px-8 rounded-b-lg pt-12 mb-10" @click="story('Behind The Scenes')">
+        <div class="uppercase mb-4"></div>
+        <h1 class="font-normal mb-4"></h1>
+        <p class="w-64 leading-normal text-grey-lighter"></p>
       </div>
-      <div class="w-full discover-banner max-w-full text-white px-8 rounded-b-lg pt-12 mb-10" @click="story('Create Personal Projects')">
-        <div class="uppercase mb-4">The Basics</div>
-        <h1 class="font-normal mb-4">Create Personal Projects</h1>
-        <p class="w-64 leading-normal text-grey-lighter">With these apps, creativity has no boundaries.</p>
+      <div class="w-full to-do max-w-full text-white px-8 rounded-b-lg pt-12 mb-10" @click="story('Get Started')">
+        <div class="uppercase mb-4"></div>
+        <h1 class="font-normal mb-4"></h1>
+        <p class="w-64 leading-normal text-grey-lighter"></p>
       </div>
     </flickity>
 

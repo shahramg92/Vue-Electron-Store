@@ -41,6 +41,27 @@
   min-height: 300px;
 }
 
+.final-cut {
+  background: url('./finalcutpro.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  min-height: 300px;
+}
+
+.genius {
+  background: url('./abrushwithgenius.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  min-height: 300px;
+}
+
+.to-do {
+  background: url('./todolist.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  min-height: 300px;
+}
+
 /**
  * This injects any component classes registered by plugins.
  *

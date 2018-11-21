@@ -67,7 +67,7 @@
               <tspan x="4.85714286" y="21.7857143">AM</tspan>
           </text>
         </svg>
-        <div class="text-white">Andre Madarang</div>
+        <div class="text-white">Shahram Ghassemi</div>
       </router-link> <!-- end sidebar-icon -->
 
     </div>
