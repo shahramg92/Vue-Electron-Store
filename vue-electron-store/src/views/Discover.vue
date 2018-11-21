@@ -16,7 +16,7 @@
       <div class="w-full discover-banner max-w-full text-white px-8 rounded-b-lg pt-12 mb-10" @click="story('Create Personal Projects')" :style="`background-image: url(${image2});`">
         <div class="uppercase mb-4">Another Title</div>
         <h1 class="font-normal mb-4">Another Title Here</h1>
-        <p class="w-64 leading-normal text-grey-lighter">Thanks for checking out my app! - Shahram</p>
+        <p class="w-64 leading-normal text-grey-lighter">Andre is the best!!</p>
       </div>
       <div class="w-full discover-banner max-w-full text-white px-8 rounded-b-lg pt-12 mb-10" @click="story('Create Personal Projects')">
         <div class="uppercase mb-4">The Basics</div>
