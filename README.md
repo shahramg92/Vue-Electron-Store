@@ -10,8 +10,7 @@ Vue-Flickity<br>
 Vue Router<br>
 Vuex<br>
 
-I encourage you to download the project, use "npm install" to install the files, and then "npm run electron:serve" to run the app to really get a feel for how the app works and looks. You can also watch the video below to see how it works.
-
+You can download the project, use "npm install" to install the files, and then "npm run electron:serve" to run the app to get a feel for how the app works and looks. You can also watch the demo video by clicking the url in this repository.
 
 Here is the landing page.
 <img src="vue-electron-store/src/assets/screen1.jpg"/>
