@@ -1,5 +1,5 @@
 # Vue-Electron-Store
-Vue-Electron-Store is a Vue.js and Electorn made desktop application which is a simulated redesigned app store with dark mode for viewing and downloading apps.
+Vue-Electron-Store is a Vue.js and Electorn made desktop application which is a simulated redesigned app store with dark mode for viewing and downloadin apps.
 
 Technologies used:<br>
 Vue.js<br>
